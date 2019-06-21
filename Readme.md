@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/Site/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Site/Default.aspx.vb))
 <!-- default file list end -->
 # How to control the height of the ASPxRoundPanel using the ContentHeight property
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e1017/)**
+<!-- run online end -->
 
 
 <p>In this example, the ContentHeight property is used to define a fixed vertical size of several ASPxRoundPanel controls representing a column of news.</p>
